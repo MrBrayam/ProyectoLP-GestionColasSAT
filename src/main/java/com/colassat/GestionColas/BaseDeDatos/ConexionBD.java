@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class ConexionBD { //adaptar la URL segun su entorno
-    private static final String URL = "jdbc:sqlserver://???\\SQLEXPRES:????;databaseName=GestionColas;user=?;password=?;encrypt=false";
+    private static final String URL = "jdbc:sqlserver://BRAYAMARISTAF\\SQLEXPRES:1433;databaseName=GestionColas;user=sa;password=12345;encrypt=false";
     private static Connection conexion = null;
     
     public static Connection getConexion() {
