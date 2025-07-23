@@ -6,5 +6,3 @@ public class Main {
         A01_VentanaInicio.main(args);
     }
 }
-//test de cambio para ver si funciona el git
-//test de cambio 22
