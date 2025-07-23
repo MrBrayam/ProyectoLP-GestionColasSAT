@@ -6,4 +6,4 @@ public class Main {
         A01_VentanaInicio.main(args);
     }
 }
-//rpginwriogbnv
+//test de cambio para ver si funciona el git
