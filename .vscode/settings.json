@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "src/main/java/com/colassat/GestionColas/Utilidades/mssql-jdbc-12.8.1.jre11.jar"
+    ]
+}
